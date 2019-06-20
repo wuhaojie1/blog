@@ -24,7 +24,7 @@
                             <li class="list-inline-item"><i class="ti-user mr-2"></i>{{tiuser}}</li>
                             <li class="list-inline-item"><i class="ti-calendar mr-2"></i>June 2, 2018</li>
                         </ul>
-                        <img :src="this.$store.state.img10"  alt="post-thumb" class="w-100 img-fluid mb-4">
+                        <img :src="this.$store.state.blogposts.img10"  alt="post-thumb" class="w-100 img-fluid mb-4">
                         <div class="content">
                             <p>{{article1}}</p>
                             <p>{{article1}}</p>

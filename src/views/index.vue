@@ -1,6 +1,5 @@
 <template>
-    <div>
-
+    <div class="wow fadeIn" data-wow-duration="2s">
         <!--header-->
         <Head/>
         <!--/header-->
